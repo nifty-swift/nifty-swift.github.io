@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>  Reference</title>
+    <title>Classes  Reference</title>
     <link rel="stylesheet" type="text/css" href="css/jazzy.css" />
     <link rel="stylesheet" type="text/css" href="css/highlight.css" />
     <meta charset='utf-8'>
@@ -10,7 +10,7 @@
     
   </head>
   <body>
-    <a title="  Reference"></a>
+    <a title="Classes  Reference"></a>
     <header>
       <div class="content-wrapper">
         <p><a href="index.html"> Docs</a> (70% documented)</p>
@@ -20,7 +20,7 @@
       <p id="breadcrumbs">
         <a href="index.html"> Reference</a>
         <img id="carat" src="img/carat.png" />
-          Reference
+        Classes  Reference
       </p>
     </div>
     <div class="content-wrapper">
@@ -529,105 +529,65 @@
       <article class="main-content">
         <section>
           <section class="section">
-            
-            <p><img src="https://travis-ci.org/nifty-swift/Nifty.svg?branch=master" alt="">
-<img src="https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat" alt="">
-<img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="Apache 2">
-<img src="https://img.shields.io/badge/Platforms-Linux%20%7C%20macOS%20%7C%20iOS%20%7C%20WatichOS%20%7C%20tvOS-lightgrey.svg" alt="Plaforms"></p>
-<a href='#nifty' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h1 id='nifty'>Nifty</h1>
+            <h1>Classes</h1>
+            <p>The following classes are available globally.</p>
 
-<p>Nifty is a general-purpose numerical computing library for the Swift programming language, made with performance and ease-of-use in mind. </p>
-<a href='#getting-started' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='getting-started'>Getting Started</h2>
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:C5Nifty5Nifty"></a>
+                    <a name="//apple_ref/swift/Class/Nifty" class="dashAnchor"></a>
+                    <a class="token" href="#/s:C5Nifty5Nifty">Nifty</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p><hr></p>
 
-<p>Not sure if Nifty is worth the effort of installing? Check out a <a href="https://github.com/nifty-swift/Nifty-demo">simple demo project</a> or peruse the <a href="http://nifty-swift.org">documentation</a> to help you decide.</p>
+<p>Nifty.swift</p>
 
-<p>Nifty is being developed on Ubuntu 14.04/16.04 and on macOS Sierra. Our goal is to stay current as Swift develops, so make sure to <a href="https://swift.org/getting-started/">install the latest release</a>.</p>
+<p>This file provides a class for namespacing options and constants.</p>
 
-<p>Nifty builds off the following external libraries:
-- <a href="http://www.netlib.org/blas/">BLAS</a>
-- <a href="http://www.netlib.org/lapack/">LAPACK</a></p>
-<a href='#xcode-installation' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h4 id='xcode-installation'>Xcode Installation</h4>
+<p>Author: Philip Erickson
+  Creation Date: 1 Jan 2017</p>
 
-<p>Xcode users can just use the included project file. Simply drag the project file into your own Xcode project and <code>import Nifty</code> at the top of any files where you wish to use Nifty!</p>
+<p>Licensed under the Apache License, Version 2.0 (the <q>License</q>); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at</p>
 
-<p>When built with Xcode, Nifty uses the <a href="https://developer.apple.com/reference/accelerate">Accelerate framework</a> to get the BLAS/LAPACK libraries, which comes installed by default on macOS.</p>
-<a href='#swift-package-manager-installation' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h4 id='swift-package-manager-installation'>Swift Package Manager Installation</h4>
+<pre class="highlight plaintext"><code>  http://www.apache.org/licenses/LICENSE-2.0
+</code></pre>
 
-<p>Linux users (and those on macOS who prefer not to use Xcode) can install Nifty using the <a href="https://swift.org/package-manager/">Swift Package Manager</a>.</p>
+<p>Unless required by applicable law or agreed to in writing, software distributed under the 
+  License is distributed on an <q>AS IS</q> BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either 
+  express or implied. See the License for the specific language governing permissions and 
+  limitations under the License.</p>
 
-<p>Install LAPACK:
-- Ubuntu: <code>sudo apt-get install liblapack3 liblapacke liblapacke-dev</code>
-- Mac: <code>brew install homebrew/dupes/lapack</code></p>
+<p>Copyright 2017 Philip Erickson</p>
 
-<p>Install an optimized BLAS library, such as <a href="http://www.openblas.net/">OpenBLAS</a>:
-- Ubuntu: <code>sudo apt-get install libopenblas-base libopenblas-dev</code>
-- Mac: <code>brew install homebrew/science/openblas</code></p>
+<p><hr></p>
 
-<p>Once you&rsquo;ve installed the above dependencies, using Nifty in your project simply requires that you create/modify your project manifest file to point to this repository as a dependency, and then <code>import Nifty</code> in whatever files you want to use it. Your project can then be built by simply running <code>swift build</code>. Refer to the aforementioned <a href="https://github.com/nifty-swift/Nifty-demo">demo project</a> to see an example of what your project manifest (the file called Package.swift) should look like and how easy it is to use Nifty!</p>
-<a href='#usage' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h4 id='usage'>Usage</h4>
+                        <a href="Classes/Nifty.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Nifty</span></code></pre>
 
-<p>Nifty is intended to be simple and easy to use. For this reason, we&rsquo;ve decided to structure things similarly to MATLAB. In fact, many (most) of the  function names in Nifty are the same as MATLAB. The hope is that MATLAB users will feel right at home and that users of similar packages (e.g. NumPy) will have an easy transition as well, making adoption as smooth as possible for as many people as possible.</p>
-<a href='#troubleshooting' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h4 id='troubleshooting'>Troubleshooting</h4>
-
-<p>If you&rsquo;re having troubles, you may find the following helpful:</p>
-
-<p>The system libraries used by Nifty are provided by the <a href="https://github.com/nifty-swift/Nifty-libs">Nifty-libs</a> package. This is used internally by Nifty so you shouldn&rsquo;t ever need to reference it. One complication that can arise though is if the installed system libraries are in a location not on your linker search path. In that case, you&rsquo;ll need to tell the linker where to find them when you build, e.g. <code>swift build -Xlinker -L/usr/local/opt/lapack/lib -Xlinker -L/usr/local/opt/openblas/lib</code></p>
-
-<p>Also, if you decide to use a different system library for one of the required system modules, you&rsquo;ll need to modify the Nifty-libs module map once the package manager has downloaded the Packages folder.</p>
-<a href='#nifty-features' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='nifty-features'>Nifty Features</h2>
-
-<p>Nifty is really new and (obviously) not complete. The library is constantly expanding—if it doesn&rsquo;t yet have what you need, it will soon! Either come back later and check Nifty out when it&rsquo;s a little farther along, or, <a href="#contributing">consider contributing</a>!</p>
-
-<p>We are currently working on getting the core set of general math and linear algebra functions finished:
-- general functions and definitions used throughout Nifty
-- matrix definition and linear algebra functionality
-- vector and tensor data structures
-- wrappers on glibc/math.h
-- basic functions related to statistics and probability</p>
-
-<p>See our <a href="Documents/Status.md">status page</a> for details on the implementation status of all features.</p>
-<a href='#tests-and-benchmarks' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='tests-and-benchmarks'>Tests and Benchmarks</h2>
-
-<p>Nifty uses the <a href="https://github.com/apple/swift-corelibs-xctest">XCTest</a> framework to manage unit tests. Tests can be run directly from Xcode or, if using the Swift Package Manager, by executing <code>swift test</code> in the repository root directory.</p>
-
-<p>The goal is for Nifty to provide correctness and performance similar to other numerical computing standards. We&rsquo;ll be testing and benchmarking mainly against MATLAB and NumPy. Check out the <a href="Documents/Status.md">status page</a> to see where the test coverage is currently at.</p>
-
-<p>You can check out the results of some simple benchmarks <a href="https://github.com/nifty-swift/Nifty/blob/master/Documents/Benchmarks.md">here</a>.</p>
-<a href='#goals-amp-scope' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='goals-amp-scope'>Goals &amp; Scope</h2>
-
-<p>The goals of Nifty can be summarized as follows:
-- Provide a viable alternative to packages such as NumPy and MATLAB for those who wish to develop in Swift.
-- Do as much in Swift as possible, resorting to external C libraries only when necessary for performance reasons
-- Make exploration of the code as simple as possible, through plain organization and clean, easy-to-read code.
-- Serve as a learning opportunity for those wishing to explore numerical computing.</p>
-
-<p>Nifty is intended to be broad in scope; almost any generally interesting tool related to numerical or scientific computing, data structures, algorithms, etc. is fair game. A few of the things that Nifty does not <em>currently</em> intend to provide are listed below. These items would take a lot of effort to do correctly and would distract from getting the core functionality done, so for the time being, we&rsquo;d rather defer to other projects.
-- Graphical stuff, e.g. matplotlib
-- Time series stuff, e.g. pandas
-- Modeling and simulation stuff, e.g. simulink</p>
-<a href='#contributing' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='contributing'>Contributing</h2>
-
-<p>All contributions are welcome—whether suggestions, submissions, requests, or whatever! If you think of a nifty feature we ought to have, let us know. </p>
-
-<p>To contribute code to this project:</p>
-
-<ol>
-<li>Fork it!</li>
-<li>Create your feature branch: <code>git checkout -b my-new-feature</code></li>
-<li>Check out the <a href="https://github.com/nifty-swift/Nifty/blob/master/Documents/Style.md">style guide</a></li>
-<li>Commit your changes: <code>git commit -am &#39;Add some feature&#39;</code></li>
-<li>Push to the branch: <code>git push origin my-new-feature</code></li>
-<li>Submit a pull request!</li>
-</ol>
-
-<p>For anything else, feel free to open an issue!</p>
-<a href='#distribution' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='distribution'>Distribution</h2>
-
-<p>If you want to statically link Nifty and all its dependencies (e.g. for distribution), follow the steps below&hellip; TODO: create guide; for now, <a href="http://stackoverflow.com/questions/36570497/compile-c-code-and-expose-it-to-swift-under-linux/">here&rsquo;s a post</a> that may be helpful.</p>
-<a href='#license' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='license'>License</h2>
-
-<p>This project is licensed under the Apache License, Version 2.0, a complete copy of which can found in LICENSE, adjacent to this file.</p>
-
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
           </section>
         </section>
         <section id="footer">

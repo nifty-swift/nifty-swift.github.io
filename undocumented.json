@@ -1,0 +1,460 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/phil/Nifty/Sources/Matrix.swift",
+      "line": 39,
+      "symbol": "Matrix.rows",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/Matrix.swift",
+      "line": 40,
+      "symbol": "Matrix.columns",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/MultikeyDictionary.swift",
+      "line": 42,
+      "symbol": "MultikeyDictionary",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/MultikeyDictionary.swift",
+      "line": 44,
+      "symbol": "MultikeyDictionary.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/MultikeyDictionary.swift",
+      "line": 45,
+      "symbol": "MultikeyDictionary.keyCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/MultikeyDictionary.swift",
+      "line": 68,
+      "symbol": "MultikeyDictionary.insert(_:keys:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/MultikeyDictionary.swift",
+      "line": 80,
+      "symbol": "MultikeyDictionary.find(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/MultikeyDictionary.swift",
+      "line": 91,
+      "symbol": "MultikeyDictionary.contains(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/MultikeyDictionary.swift",
+      "line": 113,
+      "symbol": "MultikeyDictionary.remove(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/Nifty.swift",
+      "line": 58,
+      "symbol": "Nifty.Constants.e",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/Nifty.swift",
+      "line": 59,
+      "symbol": "Nifty.Constants.phi",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/Nifty.swift",
+      "line": 60,
+      "symbol": "Nifty.Constants.pi",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/SliceIndex.swift",
+      "line": 24,
+      "symbol": "SliceIndex",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/chol.swift",
+      "line": 32,
+      "symbol": "Nifty.chol",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/chol.swift",
+      "line": 34,
+      "symbol": "Nifty.chol.upper",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/chol.swift",
+      "line": 35,
+      "symbol": "Nifty.chol.lower",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/dot.swift",
+      "line": 28,
+      "symbol": "*(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/eps.swift",
+      "line": 25,
+      "symbol": "eps",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/eye.swift",
+      "line": 45,
+      "symbol": "eye(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/ge.swift",
+      "line": 22,
+      "symbol": ">=(_:_:).T",
+      "symbol_kind": "source.lang.swift.decl.generic_type_param",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/ge.swift",
+      "line": 24,
+      "symbol": ">=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/ge.swift",
+      "line": 26,
+      "symbol": ">=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/gt.swift",
+      "line": 22,
+      "symbol": ">(_:_:).T",
+      "symbol_kind": "source.lang.swift.decl.generic_type_param",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/gt.swift",
+      "line": 24,
+      "symbol": ">(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/gt.swift",
+      "line": 26,
+      "symbol": ">(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/inv.swift",
+      "line": 28,
+      "symbol": "~(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/isequal.swift",
+      "line": 28,
+      "symbol": "Nifty.isequal",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/isequal.swift",
+      "line": 30,
+      "symbol": "Nifty.isequal.absolute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/isequal.swift",
+      "line": 31,
+      "symbol": "Nifty.isequal.relative",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/isequal.swift",
+      "line": 76,
+      "symbol": "isequal(_:_:within:comparison:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/isequal.swift",
+      "line": 95,
+      "symbol": "isequal(_:_:within:comparison:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/isequal.swift",
+      "line": 114,
+      "symbol": "isequal(_:_:within:comparison:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/le.swift",
+      "line": 22,
+      "symbol": "<=(_:_:).T",
+      "symbol_kind": "source.lang.swift.decl.generic_type_param",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/le.swift",
+      "line": 24,
+      "symbol": "<=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/le.swift",
+      "line": 26,
+      "symbol": "<=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/lt.swift",
+      "line": 22,
+      "symbol": "<(_:_:).T",
+      "symbol_kind": "source.lang.swift.decl.generic_type_param",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/lt.swift",
+      "line": 24,
+      "symbol": "<(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/lt.swift",
+      "line": 26,
+      "symbol": "<(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/mean.swift",
+      "line": 4,
+      "symbol": "mean(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/minus.swift",
+      "line": 24,
+      "symbol": "-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/mldivide.swift",
+      "line": 29,
+      "symbol": "-/(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/mrdivide.swift",
+      "line": 26,
+      "symbol": "/(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/mtimes.swift",
+      "line": 29,
+      "symbol": "*(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/plus.swift",
+      "line": 24,
+      "symbol": "+(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/rand.swift",
+      "line": 104,
+      "symbol": "rand(_:min:max:seed:threadSafe:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/rand.swift",
+      "line": 111,
+      "symbol": "rand(min:max:seed:threadSafe:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/randa.swift",
+      "line": 41,
+      "symbol": "RandomCaseOption",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/randa.swift",
+      "line": 43,
+      "symbol": "RandomCaseOption.mixed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/randa.swift",
+      "line": 44,
+      "symbol": "RandomCaseOption.lower",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/randa.swift",
+      "line": 45,
+      "symbol": "RandomCaseOption.upper",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/randi.swift",
+      "line": 212,
+      "symbol": "randi(_:min:max:seed:threadSafe:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/randi.swift",
+      "line": 219,
+      "symbol": "randi(min:max:seed:threadSafe:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/randn.swift",
+      "line": 140,
+      "symbol": "randn(_:mean:std:seed:threadSafe:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/randn.swift",
+      "line": 147,
+      "symbol": "randn(mean:std:seed:threadSafe:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/svd.swift",
+      "line": 33,
+      "symbol": "Nifty.svd",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/svd.swift",
+      "line": 35,
+      "symbol": "Nifty.svd.values",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tic_toc.swift",
+      "line": 99,
+      "symbol": "StopwatchUnit.weeks",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tic_toc.swift",
+      "line": 100,
+      "symbol": "StopwatchUnit.days",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tic_toc.swift",
+      "line": 101,
+      "symbol": "StopwatchUnit.hours",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tic_toc.swift",
+      "line": 102,
+      "symbol": "StopwatchUnit.minutes",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tic_toc.swift",
+      "line": 103,
+      "symbol": "StopwatchUnit.seconds",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tic_toc.swift",
+      "line": 104,
+      "symbol": "StopwatchUnit.ms",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tic_toc.swift",
+      "line": 105,
+      "symbol": "StopwatchUnit.us",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tic_toc.swift",
+      "line": 106,
+      "symbol": "StopwatchUnit.ns",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/transpose.swift",
+      "line": 41,
+      "symbol": "^(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/phil/Nifty"
+}
