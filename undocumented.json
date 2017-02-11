@@ -92,6 +92,216 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/phil/Nifty/Sources/acos.swift",
+      "line": 35,
+      "symbol": "acos(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/acos.swift",
+      "line": 42,
+      "symbol": "acos(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/acos.swift",
+      "line": 49,
+      "symbol": "acos(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/acosd.swift",
+      "line": 32,
+      "symbol": "acosd(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/acosd.swift",
+      "line": 39,
+      "symbol": "acosd(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/acosd.swift",
+      "line": 46,
+      "symbol": "acosd(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/acosh.swift",
+      "line": 31,
+      "symbol": "acosh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/acosh.swift",
+      "line": 38,
+      "symbol": "acosh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/acosh.swift",
+      "line": 45,
+      "symbol": "acosh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/asin.swift",
+      "line": 36,
+      "symbol": "asin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/asin.swift",
+      "line": 43,
+      "symbol": "asin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/asin.swift",
+      "line": 50,
+      "symbol": "asin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/asind.swift",
+      "line": 32,
+      "symbol": "asind(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/asind.swift",
+      "line": 39,
+      "symbol": "asind(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/asind.swift",
+      "line": 46,
+      "symbol": "asind(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/asinh.swift",
+      "line": 30,
+      "symbol": "asinh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/asinh.swift",
+      "line": 37,
+      "symbol": "asinh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/asinh.swift",
+      "line": 44,
+      "symbol": "asinh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/atan.swift",
+      "line": 33,
+      "symbol": "atan(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/atan.swift",
+      "line": 40,
+      "symbol": "atan(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/atan.swift",
+      "line": 47,
+      "symbol": "atan(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/atand.swift",
+      "line": 32,
+      "symbol": "atand(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/atand.swift",
+      "line": 39,
+      "symbol": "atand(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/atand.swift",
+      "line": 46,
+      "symbol": "atand(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/atanh.swift",
+      "line": 32,
+      "symbol": "atanh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/atanh.swift",
+      "line": 39,
+      "symbol": "atanh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/atanh.swift",
+      "line": 46,
+      "symbol": "atanh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/ceil.swift",
+      "line": 30,
+      "symbol": "ceil(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/ceil.swift",
+      "line": 37,
+      "symbol": "ceil(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/ceil.swift",
+      "line": 44,
+      "symbol": "ceil(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/phil/Nifty/Sources/chol.swift",
       "line": 32,
       "symbol": "Nifty.chol",
@@ -113,6 +323,69 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/phil/Nifty/Sources/cos.swift",
+      "line": 31,
+      "symbol": "cos(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/cos.swift",
+      "line": 38,
+      "symbol": "cos(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/cos.swift",
+      "line": 45,
+      "symbol": "cos(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/cosd.swift",
+      "line": 32,
+      "symbol": "cosd(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/cosd.swift",
+      "line": 39,
+      "symbol": "cosd(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/cosd.swift",
+      "line": 46,
+      "symbol": "cosd(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/cosh.swift",
+      "line": 31,
+      "symbol": "cosh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/cosh.swift",
+      "line": 38,
+      "symbol": "cosh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/cosh.swift",
+      "line": 45,
+      "symbol": "cosh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/phil/Nifty/Sources/dot.swift",
       "line": 28,
       "symbol": "*(_:_:)",
@@ -127,9 +400,93 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/phil/Nifty/Sources/exp.swift",
+      "line": 33,
+      "symbol": "exp(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/exp.swift",
+      "line": 40,
+      "symbol": "exp(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/exp.swift",
+      "line": 47,
+      "symbol": "exp(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/exp2.swift",
+      "line": 31,
+      "symbol": "exp2(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/exp2.swift",
+      "line": 38,
+      "symbol": "exp2(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/exp2.swift",
+      "line": 45,
+      "symbol": "exp2(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/expm1.swift",
+      "line": 32,
+      "symbol": "expm1(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/expm1.swift",
+      "line": 39,
+      "symbol": "expm1(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/expm1.swift",
+      "line": 46,
+      "symbol": "expm1(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/phil/Nifty/Sources/eye.swift",
       "line": 45,
       "symbol": "eye(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/floor.swift",
+      "line": 30,
+      "symbol": "floor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/floor.swift",
+      "line": 37,
+      "symbol": "floor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/floor.swift",
+      "line": 44,
+      "symbol": "floor(_:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
@@ -246,6 +603,90 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/phil/Nifty/Sources/log.swift",
+      "line": 34,
+      "symbol": "log(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log.swift",
+      "line": 41,
+      "symbol": "log(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log.swift",
+      "line": 48,
+      "symbol": "log(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log10.swift",
+      "line": 30,
+      "symbol": "log10(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log10.swift",
+      "line": 37,
+      "symbol": "log10(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log10.swift",
+      "line": 44,
+      "symbol": "log10(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log1p.swift",
+      "line": 31,
+      "symbol": "log1p(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log1p.swift",
+      "line": 38,
+      "symbol": "log1p(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log1p.swift",
+      "line": 45,
+      "symbol": "log1p(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log2.swift",
+      "line": 30,
+      "symbol": "log2(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log2.swift",
+      "line": 37,
+      "symbol": "log2(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/log2.swift",
+      "line": 44,
+      "symbol": "log2(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/phil/Nifty/Sources/lt.swift",
       "line": 22,
       "symbol": "<(_:_:).T",
@@ -310,14 +751,14 @@
     },
     {
       "file": "/Users/phil/Nifty/Sources/rand.swift",
-      "line": 104,
+      "line": 108,
       "symbol": "rand(_:min:max:seed:threadSafe:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
       "file": "/Users/phil/Nifty/Sources/rand.swift",
-      "line": 111,
+      "line": 115,
       "symbol": "rand(min:max:seed:threadSafe:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
@@ -379,6 +820,111 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/phil/Nifty/Sources/round.swift",
+      "line": 31,
+      "symbol": "round(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/round.swift",
+      "line": 38,
+      "symbol": "round(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/round.swift",
+      "line": 45,
+      "symbol": "round(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sin.swift",
+      "line": 31,
+      "symbol": "sin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sin.swift",
+      "line": 38,
+      "symbol": "sin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sin.swift",
+      "line": 45,
+      "symbol": "sin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sind.swift",
+      "line": 31,
+      "symbol": "sind(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sind.swift",
+      "line": 38,
+      "symbol": "sind(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sind.swift",
+      "line": 45,
+      "symbol": "sind(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sinh.swift",
+      "line": 31,
+      "symbol": "sinh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sinh.swift",
+      "line": 38,
+      "symbol": "sinh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sinh.swift",
+      "line": 45,
+      "symbol": "sinh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sqrt.swift",
+      "line": 32,
+      "symbol": "sqrt(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sqrt.swift",
+      "line": 39,
+      "symbol": "sqrt(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/sqrt.swift",
+      "line": 46,
+      "symbol": "sqrt(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/phil/Nifty/Sources/svd.swift",
       "line": 33,
       "symbol": "Nifty.svd",
@@ -390,6 +936,69 @@
       "line": 35,
       "symbol": "Nifty.svd.values",
       "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tan.swift",
+      "line": 34,
+      "symbol": "tan(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tan.swift",
+      "line": 41,
+      "symbol": "tan(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tan.swift",
+      "line": 48,
+      "symbol": "tan(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tand.swift",
+      "line": 32,
+      "symbol": "tand(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tand.swift",
+      "line": 39,
+      "symbol": "tand(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tand.swift",
+      "line": 46,
+      "symbol": "tand(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tanh.swift",
+      "line": 31,
+      "symbol": "tanh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tanh.swift",
+      "line": 38,
+      "symbol": "tanh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/phil/Nifty/Sources/tanh.swift",
+      "line": 45,
+      "symbol": "tanh(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
